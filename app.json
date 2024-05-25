@@ -83,6 +83,11 @@
        "required": true,
        "value": ""
     },
+     "BOT_USERNAME": {
+       "description": "Get bot token from @BotFather on TG",
+       "required": true,
+       "value": ""
+     },
     "TOKEN": {
        "description": "Get bot token from @BotFather on TG",
        "required": true,
